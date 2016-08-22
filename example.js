@@ -1,4 +1,4 @@
-const SimpleFcm = require('./')
+var SimpleFcm = require('./')
 
 var fcm = new SimpleFcm('your-server-key')
 
